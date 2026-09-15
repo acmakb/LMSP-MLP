@@ -7,7 +7,6 @@ venv/
 checkpoints/
 results/
 logs/
-data/
 
 *.pth
 *.pt
